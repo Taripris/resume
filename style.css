@@ -1,0 +1,209 @@
+@media(min-width:2000px){
+    display: flex;
+}
+
+
+body{
+    background-color:pink;
+          
+  
+    
+}
+
+.container{
+    width: 20%;
+    height: 500px;
+    margin-left:90px;
+    margin-top:30px;
+    border: 5px solid gray;
+    background-color:gray;
+}
+
+.backup{
+     width:70%;
+     height:1500px;
+     background-color:white;
+     margin-left:290px;
+     margin-top:-510px;
+
+}
+
+
+.name{
+    font-family:didot;
+    color:white;
+    margin-right:-70px;
+    margin-top:150px;
+    transform:rotate(90deg);
+    
+
+}
+.contact{
+    font-family:helvetica;
+    font-size:15px;
+    color: white;
+   margin-left:-80px;
+   margin-right:10px;
+   margin-top:-40px;
+   transform:rotate(90deg);
+}
+.category{
+    width:50%;
+    margin-top:-1480px;
+    margin-left:465px;
+    border-left: 5px solid pink;
+   
+   
+}
+.objective{
+    font-family:didot;
+    color:gray;
+    padding-left:10px;
+    margin-top:50px;
+    margin-left:10px;
+    border-bottom: 2px solid pink;
+   
+   
+}
+
+.obtxt{
+    font-family:helvetica;
+    color: gray;
+    padding-left:10px;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.category2{
+    margin-top:30px;
+    margin-left:465px;
+    border-left:5px solid pink;
+    height:45%;
+    width:50%;
+    border-left: 5px solid pink;
+}
+.education{
+    font-family:didot;
+    color:gray;
+    padding-left:20px;
+    margin-left:10px; 
+    border-bottom: 2px solid pink;
+}
+.years1{
+    font-family:helvetica;
+    color:gray;
+    float:right;
+    margin-top: -70px;
+    
+}
+.years2{
+    font-family:helvetica;
+    color:gray;
+    float:right;
+    margin-top: -52px;
+}
+.years3{
+    font-family:helvetica;
+    color:gray;
+    float:right;
+    margin-top: -52px;
+}
+.category3{
+    margin-top:35px;
+    margin-left:465px;
+    border-left:5px solid pink;
+    height:45%;
+    width:50%;
+    border-left: 5px solid pink;
+
+}
+.wkexperience{
+    font-family:didot;
+    color:gray;
+    padding-left:20px;
+    margin-left:10px; 
+    border-bottom: 2px solid pink;
+
+}
+.task1{
+    font-family:helvetica;
+    color: gray;
+    padding-left:10px;
+    margin-top:10px;
+    margin-left:10px;
+
+}
+.wk{
+    font-family:helvetica;
+    color:gray;
+    float:right;
+    margin-top: -52px;
+
+}
+.ul{
+    font-family:helvetica;
+    font-style:italic;
+    color:gray;
+    margin-left:20px;
+    
+
+}
+.task1a{
+    font-family:helvetica;
+    color: gray;
+    padding-left:10px;
+    margin-top:10px;
+    margin-left:48px;
+    border-left: 2px solid gray;
+    
+}
+.category4{
+    margin-top:35px;
+    margin-left:465px;
+    border-left:5px solid pink;
+    height:45%;
+    width:50%;
+    border-left: 5px solid pink;
+
+}
+.skills{
+    font-family:didot;
+    color:gray;
+    padding-left:20px;
+    margin-left:10px; 
+    border-bottom: 2px solid pink;
+    
+
+}
+.bar{
+    width: 100%;
+    background-color: #ddd;
+    margin-left:20px;
+}
+.illustrator{
+    width: 80%; 
+    background-color: pink;
+}
+.photo{
+    width:70%;
+    background-color:pink;
+   
+}
+.bar2{
+    width: 100%;
+    background-color: #ddd;
+    margin-left:20px;
+
+}
+.bar3{
+    width: 100%;
+    background-color: #ddd;
+    margin-left:20px;
+
+}
+
+.tech{
+    width:100%;
+    background-color:pink;
+    margin-left:20px;
+}
